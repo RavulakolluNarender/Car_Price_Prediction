@@ -12,11 +12,11 @@
 
 
 ## Demo
-Link: [https://car-price-predictionapp.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
+Link: [https://car-price-predictionapp.herokuapp.com/](https://car-price-predictionapp.herokuapp.com/)
 
-[![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
+[![](https://drive.google.com/file/d/1VX0gJ2saIzTmXGWmFcrzLdygvJ4j7t01/view?usp=sharing)](https://car-price-predictionapp.herokuapp.com/)
 
-[![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
+[![](https://drive.google.com/file/d/1VX0gJ2saIzTmXGWmFcrzLdygvJ4j7t01/view?usp=sharing)](https://car-price-predictionapp.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts Car Price.
@@ -60,7 +60,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/Mandal-21/Flight-Price-Prediction/issues) here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/RavulakolluNarender/Car_Price_Prediction/issues) here by including your search query and the expected result
 
 ## Future Scope
 
