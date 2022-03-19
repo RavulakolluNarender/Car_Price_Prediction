@@ -14,9 +14,9 @@
 ## Demo
 Link: [https://car-price-predictionapp.herokuapp.com/](https://car-price-predictionapp.herokuapp.com/)
 
-[![](https://drive.google.com/file/d/1VX0gJ2saIzTmXGWmFcrzLdygvJ4j7t01/view?usp=sharing)](https://car-price-predictionapp.herokuapp.com/)
+[![](https://github.com/RavulakolluNarender/Car_Price_Prediction/blob/main/Screenshot%202022-03-19%20at%201.13.10%20PM.png?raw=true)](https://car-price-predictionapp.herokuapp.com/)
 
-[![](https://drive.google.com/file/d/1VX0gJ2saIzTmXGWmFcrzLdygvJ4j7t01/view?usp=sharing)](https://car-price-predictionapp.herokuapp.com/)
+[![](https://github.com/RavulakolluNarender/Car_Price_Prediction/blob/main/Screenshot%202022-03-19%20at%201.13.42%20PM.png?raw=true)](https://car-price-predictionapp.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts Car Price.
